@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "Saman",
+      "lastName": "Kumara",
+      "email": "saman@gmail.com",
+      "mobile": "0712458647",
+      "salary": "100,000"
+    },
+    {
+      "id": 8,
+      "firstName": "Damith",
+      "lastName": "Sandaruwan",
+      "email": "damith@gmail.com",
+      "mobile": "0774589654",
+      "salary": "150,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Yasitha",
+      "lastName": "Dilshan",
+      "email": "yasitha@gmail.com",
+      "mobile": "0761280003",
+      "salary": "450,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
